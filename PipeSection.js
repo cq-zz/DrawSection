@@ -1,5 +1,5 @@
-// 管道截面绘制
-class PipeSection {
+// 截面绘制
+class DrawSection {
     /**
      * @param {*} domID     父级元素id
      * @param {*} width     画布宽
