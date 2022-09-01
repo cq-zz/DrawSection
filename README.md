@@ -1,2 +1,2 @@
-# PipeSection
-绘制管线截面
+# drawSection
+绘制截面
